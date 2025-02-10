@@ -2,6 +2,7 @@
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import "../styles/PandaPuzzle.css"; // Add a CSS file for styling
+import pandaPic from "../assets/panda_puzzle.jpg";
 
 // Utility function to shuffle the array
 function shuffleArray(array) {
@@ -74,7 +75,7 @@ function PandaPuzzle({ onComplete }) {
     borderRadius: "10px",
     cursor: "pointer",
     transition: "transform 0.2s ease-in-out",
-    backgroundImage: "url('/images/panda_puzzle.jpg')", // Replace with your panda image URL
+    backgroundImage: `url(${pandaPic})`, // Replace with your image URL
     backgroundSize: "300px 300px",
   };
 

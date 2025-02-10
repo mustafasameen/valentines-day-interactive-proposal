@@ -16,7 +16,7 @@ function Welcome({ onStart }) {
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 1, ease: "easeOut" }}
       >
-        Welcome to Our Adventure! 🌟
+        Hi Pookie Bear! 🐼
       </motion.h1>
 
       <motion.p
@@ -24,8 +24,7 @@ function Welcome({ onStart }) {
         animate={{ opacity: 1 }}
         transition={{ duration: 1, delay: 0.5 }}
       >
-        Today, you’ll step into my shoes and embark on a journey to collect
-        tokens of our love. 💖
+        Let's go on a spontaneous fun trip. 💖
       </motion.p>
 
       <motion.button
