@@ -23,6 +23,13 @@ function App() {
 
   return (
     <div className='App'>
+      <audio autoPlay loop>
+        <source
+          src='https://soundcloud.com/glassanimals/tangerine?in=errypye/sets/444-1a'
+          type='audio/mpeg'
+        />
+        Your browser does not support the audio element.
+      </audio>
       {stage === "welcome" && <Welcome onStart={nextStage} />}
       {stage === "puzzle" && <PandaPuzzle onComplete={nextStage} />}
       {stage === "sorting" && <SkittlesSorting onComplete={nextStage} />}
