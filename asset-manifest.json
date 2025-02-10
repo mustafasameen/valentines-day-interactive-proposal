@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/valentines-day-interactive-proposal/static/css/main.d072899b.css",
+    "main.js": "/valentines-day-interactive-proposal/static/js/main.8303155c.js",
+    "static/js/488.44aea2b7.chunk.js": "/valentines-day-interactive-proposal/static/js/488.44aea2b7.chunk.js",
+    "index.html": "/valentines-day-interactive-proposal/index.html",
+    "main.d072899b.css.map": "/valentines-day-interactive-proposal/static/css/main.d072899b.css.map",
+    "main.8303155c.js.map": "/valentines-day-interactive-proposal/static/js/main.8303155c.js.map",
+    "488.44aea2b7.chunk.js.map": "/valentines-day-interactive-proposal/static/js/488.44aea2b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d072899b.css",
+    "static/js/main.8303155c.js"
+  ]
+}
