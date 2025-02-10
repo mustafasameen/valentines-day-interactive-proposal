@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/valentines-day-interactive-proposal/static/css/main.44d9ab34.css",
-    "main.js": "/valentines-day-interactive-proposal/static/js/main.cc68a9e3.js",
+    "main.js": "/valentines-day-interactive-proposal/static/js/main.66e58763.js",
     "static/js/488.44aea2b7.chunk.js": "/valentines-day-interactive-proposal/static/js/488.44aea2b7.chunk.js",
+    "static/media/tangerine.mp3": "/valentines-day-interactive-proposal/static/media/tangerine.0bef830520e066f86699.mp3",
+    "static/media/couple.jpeg": "/valentines-day-interactive-proposal/static/media/couple.66e5bd20ef9b64e749a5.jpeg",
+    "static/media/panda_puzzle.jpg": "/valentines-day-interactive-proposal/static/media/panda_puzzle.af1f59fe5533aac3a631.jpg",
     "index.html": "/valentines-day-interactive-proposal/index.html",
     "main.44d9ab34.css.map": "/valentines-day-interactive-proposal/static/css/main.44d9ab34.css.map",
-    "main.cc68a9e3.js.map": "/valentines-day-interactive-proposal/static/js/main.cc68a9e3.js.map",
+    "main.66e58763.js.map": "/valentines-day-interactive-proposal/static/js/main.66e58763.js.map",
     "488.44aea2b7.chunk.js.map": "/valentines-day-interactive-proposal/static/js/488.44aea2b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44d9ab34.css",
-    "static/js/main.cc68a9e3.js"
+    "static/js/main.66e58763.js"
   ]
 }
